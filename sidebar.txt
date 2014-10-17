@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sts:home|Door43 (sts)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sts|d43-sts repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sts/archive/master.zip|d43-sts.zip]]
+
+**Recent Changes**
+{{changes>ns = sts}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sts|Ethnologue data]]
+
